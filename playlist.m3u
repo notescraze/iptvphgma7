@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="'GMA" tvg-name="GMA" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/5DSMlsc.jpg" group-title="local-nickflexph",GMA
+#EXTINF:-1 tvg-id="'GMA" tvg-name="GMA" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/5DSMlsc.jpg" group-title="LOCALGMA7",GMA
 http://fp.visualsec.net:8443/live/49qZMikUqHPKJ1FNMR-CzA/1631873875/5.m3u8
 
-#EXTINF:-1 tvg-id="'Gtv" tvg-name="Gtv" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/YpcoIIy.jpg" group-title="local nickflexph",Gtv
+#EXTINF:-1 tvg-id="'Gtv" tvg-name="Gtv" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/YpcoIIy.jpg" group-title="LOCALGTV",Gtv
 http://fp.visualsec.net:8443/live/49qZMikUqHPKJ1FNMR-CzA/1631873875/7.m3u8
